@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date_time">Date &amp; Time</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="no_tasks_yet">No tasks yet. Tap + to add one.</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="passwords_dont_match">Passwords do not match</string>
+</resources>
